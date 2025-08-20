@@ -27,5 +27,6 @@ This is a simple **Snake Game** implemented in **C++**, using the **linked list*
 
 2. Compile the game:
    g++ snake.cpp -o snake.exe
+
 3.Run the game:
 ./snake   # or snake.exe on Windows
